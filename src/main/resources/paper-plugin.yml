@@ -1,0 +1,6 @@
+name: HorsesOnWater
+author: Jqstln
+description: Ride your horses across (frozen) lakes and rivers.
+version: '${project.version}'
+main: dev.jqstln.horsesonwater.Main
+api-version: '1.20'

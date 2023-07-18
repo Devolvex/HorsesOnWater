@@ -1,0 +1,3 @@
+# Currently this is the only config option, debugging isn't needed, but could be useful.
+# It logs, when a player rides a vehicle and where the ice have been placed.
+debug: false
